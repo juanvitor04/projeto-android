@@ -87,7 +87,7 @@ main h1{
     color:var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
-    font-size: 1.8m;
+    font-size: 1.8em;
 }
 main h2{
     font-family: var(--fonte-android);
@@ -121,7 +121,8 @@ main a:hover{
     color:var(--cor4);
 }
 main img{
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 main img.pequena {
     margin: auto;
