@@ -9,7 +9,7 @@
     --cor0:#c5ebd6;
     --cor1:#83e1ad;
     --cor2:#3ddc84;
-    --cor3:#2fa866;
+    --cor3:#2fa765;
     --cor4:#1a5c37;
     --cor5:#063d1e;
     --fonte-padrao:Arial,verdana,Helvetica,sans-serif;
@@ -122,7 +122,6 @@ main a:hover{
 }
 main img{
     max-width: 100%;
-    height: auto;
 }
 main img.pequena {
     margin: auto;
